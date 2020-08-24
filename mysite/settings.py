@@ -27,10 +27,10 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
-server {
-    listen 80 default_server;
-    return 444;
-}
+# server {
+#     listen 80 default_server;
+#     return 444;
+# }
 
 # Application definition
 
